@@ -1,5 +1,3 @@
-# WindyGridWorld
-
 # Reinforcement Learning Algorithms Comparison in Wind Grid Environment
 
 ## Introduction

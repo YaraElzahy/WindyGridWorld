@@ -1,6 +1,5 @@
 # WindyGridWorld
 
-```markdown
 # Reinforcement Learning Algorithms Comparison in Wind Grid Environment
 
 ## Introduction
@@ -33,4 +32,4 @@ The problem aims to find an optimal policy in a wind grid environment using SARS
 
 ## Conclusion
 Q-Learning generally outperforms SARSA in total reward and convergence speed. SARSA may take fewer steps. Q-Learning with 8 actions yields better results than 4 actions. Choosing RL algorithms and action spaces depends on problem characteristics.
-```
+
